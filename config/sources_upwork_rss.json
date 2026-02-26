@@ -1,0 +1,10 @@
+{
+  "sources": [
+    {
+      "name": "upwork_powerpoint_example",
+      "platform": "upwork",
+      "type": "rss",
+      "url": "https://www.upwork.com/ab/feed/jobs/rss?q=powerpoint&sort=recency"
+    }
+  ]
+}
