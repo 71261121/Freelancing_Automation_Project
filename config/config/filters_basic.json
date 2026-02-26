@@ -1,0 +1,13 @@
+{
+  "language": "en",
+  "min_budget_fixed": 10,
+  "blocked_words_in_title": [
+    "adult",
+    "nsfw",
+    "crypto scam"
+  ],
+  "must_have_words": [
+    "powerpoint",
+    "presentation"
+  ]
+}
